@@ -1,4 +1,4 @@
-##first code ##main
+##first code ##feature
 print("hello world")
 
 ##random number 
